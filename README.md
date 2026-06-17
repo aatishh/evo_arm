@@ -19,3 +19,8 @@ Effector - Hinge 2.stl
       Source volume : 2138.98 mm³
       Output volume : 2139.27 mm³
       Difference    : 0.29 mm³  (0.01%)
+
+Arm - parallel hinge.stl 
+    Source volume : 17488.86 mm³
+     Output volume : 17469.61 mm³
+     Difference    : 19.24 mm³  (0.11%)
