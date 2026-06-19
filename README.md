@@ -40,4 +40,9 @@ Arm - parallel hinge.stl
      Output volume : 24260.16 mm³
      Difference    : 198.49 mm³  (0.8%)
 
+Pair found: Cap plate.stl + source_Cap plate.stl
+     Source volume : 3744.26 mm³
+     Output volume : 3744.41 mm³
+     Difference    : 0.14 mm³  (0.00%)
+
      
