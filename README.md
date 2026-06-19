@@ -29,3 +29,8 @@ Arm - parallel hinge.stl
       Source volume : 23901.30 mm³
       Output volume : 23901.30 mm³
       Difference    : 0.00 mm³  (0.00%)
+
+ Arm - parallel linkage.stl 
+     Source volume : 25557.35 mm³
+     Output volume : 25536.59 mm³
+   Difference    : 20.76 mm³  (0.08%)
