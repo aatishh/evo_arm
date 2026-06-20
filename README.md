@@ -51,4 +51,10 @@ Source volume : 24116.80 mm³
     Output volume : 24117.73 mm³
     Difference    : 0.92 mm³  (0.00%)
 
+    
+Base Shaft.stl 
+    Source volume : 11911.18 mm³
+     Output volume : 11910.67 mm³
+     Difference    : 0.51 mm³  (0.00%)
+
      
