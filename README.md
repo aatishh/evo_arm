@@ -61,4 +61,8 @@ Base Shaft.stl
    Source volume : 41064.43 mm³
      Output volume : 41114.21 mm³
      Difference    : 49.79 mm³  (0.12%)
-     
+
+Pair found: Arm - effector right v2.stl + source_Arm - effector right v2.stl
+     Source volume : 29832.05 mm³
+   Output volume : 29819.40 mm³
+      Difference    : 12.65 mm³  (0.04%)
