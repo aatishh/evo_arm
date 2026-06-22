@@ -56,5 +56,9 @@ Base Shaft.stl
     Source volume : 11911.18 mm³
      Output volume : 11910.67 mm³
      Difference    : 0.51 mm³  (0.00%)
-
+     
+ Arm - actuator hinge R.stl
+   Source volume : 41064.43 mm³
+     Output volume : 41114.21 mm³
+     Difference    : 49.79 mm³  (0.12%)
      
