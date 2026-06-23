@@ -66,3 +66,9 @@ Pair found: Arm - effector right v2.stl + source_Arm - effector right v2.stl
      Source volume : 29832.05 mm³
    Output volume : 29819.40 mm³
       Difference    : 12.65 mm³  (0.04%)
+
+
+  Pair found: Arm - main arm L.stl + source_Arm - main arm L.stl
+    Source volume : 35847.04 mm³
+   Output volume : 35868.07 mm³
+     Difference    : 21.04 mm³  (0.06%)  
