@@ -99,3 +99,8 @@ Pair found: Arm - effector left v2.stl + source_Arm - effector left v2.stl
  Output volume : 4032.74 mm³.  
  Difference    : 0.43 mm³  (0.01%)
 
+ Pair found: Arm - forearm v2 1.stl 
+    Source volume : 49554.32 mm³
+    Output volume : 49503.80 mm³
+    Difference    : 50.52 mm³  (0.10%)
+
