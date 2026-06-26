@@ -103,6 +103,7 @@ Pair found: Arm - effector left v2.stl + source_Arm - effector left v2.stl
     Source volume : 49554.32 mm³
     Output volume : 49503.80 mm³
     Difference    : 50.52 mm³  (0.10%)
+    
 Pair found: Arm - 608 bearing cap [Small].stl + source_Arm - 608 bearing cap [Small].stl
     Source volume : 619.24 mm³
     Output volume : 618.40 mm³
