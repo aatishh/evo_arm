@@ -93,3 +93,9 @@ Pair found: Arm - effector left v2.stl + source_Arm - effector left v2.stl
     Source volume : 16270.08 mm³
      Output volume : 16252.50 mm³
      Difference    : 17.58 mm³  (0.11%)
+
+ Pair found: Joint Lower.stl + source_Joint Lower.stl         
+ Source volume : 4032.31 mm³       
+ Output volume : 4032.74 mm³.  
+ Difference    : 0.43 mm³  (0.01%)
+
