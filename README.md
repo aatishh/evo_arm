@@ -108,3 +108,8 @@ Pair found: Arm - 608 bearing cap [Small].stl + source_Arm - 608 bearing cap [Sm
     Source volume : 619.24 mm³
     Output volume : 618.40 mm³
      Difference    : 0.85 mm³  (0.14%)
+
+ Pair found: M4-608 Flanged Spacer.stl + source_M4-608 Flanged Spacer.stl
+   Source volume : 492.19 mm³
+     Output volume : 491.55 mm³
+      Difference    : 0.64 mm³  (0.13%)
