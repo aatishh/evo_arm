@@ -119,7 +119,12 @@ Source volume : 24116.80 mm³
   Output volume : 207.98 mm³
  Difference    : 0.66 mm³  (0.32%)
 
-: Arm - base center support.stl + source_Arm - base center support.stl
+24) Arm - base center support.stl + source_Arm - base center support.stl
     Source volume : 38452.46 mm³
      Output volume : 38375.51 mm³
     Difference    : 76.96 mm³  (0.20%)
+
+ 25)Base Plate.stl + source_Base Plate.stl
+     Source volume : 42469.12 mm³
+   Output volume : 42077.59 mm³
+     Difference    : 391.53 mm³  (0.92%)
