@@ -128,3 +128,8 @@ Source volume : 24116.80 mm³
      Source volume : 42469.12 mm³
    Output volume : 42077.59 mm³
      Difference    : 391.53 mm³  (0.92%)
+
+26) Base Join.stl 
+   Source volume : 9705.85 mm³
+   Output volume : 9695.00 mm³
+     Difference    : 10.85 mm³  (0.11%)
